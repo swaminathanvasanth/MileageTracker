@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MileageTracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="skm">"Starting KM - "</string>
+    <string name="ekm">"Ending KM - "</string>
+    <string name="fuel">&quot;Fuel (Liters) - &quot;</string>
+    <string name="save">Save</string>
+    <string name="calculate">Calculate</string>
+    <string name="Reset">Reset</string>
+
+</resources>
